@@ -24,12 +24,12 @@ pubs:
     bibtex: ke2016proposal.bib
     
   - author: "W. Ke, J. Chen, J. Jiao, G. Zhao, and Q. Ye"
-    title: "SRN: Side-output Residual Network for Object Symmetry Detection in the Wild"
+    title: "SRN: Side-output Residual Network for Object Symmetry Detection in the Wild (accepted)"
     keywords: "symmetry detection"
     month: "July "
     year: "2017"
     address: "Hawaii, USA"
-    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (accepted)"
+    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition"
     bibtex: ke2017srn.bib
     code: https://github.com/KevinKecc/SRN
 ---
