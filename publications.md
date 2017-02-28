@@ -22,6 +22,15 @@ pubs:
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
     url: http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/papers/Ke_Texture_Complexity_Based_CVPR_2016_paper.pdf
     bibtex: ke2016proposal.bib
+    
+  - author: "W. Ke, J. Chen, J. Jiao, G. Zhao, and Q. Ye"
+    title: "SRN: Side-output Residual Network for Object Symmetry Detection in the Wild"
+    keywords: "symmetry detection"
+    month: "July "
+    year: "2016"
+    address: "Las Vegas, USA"
+    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
+    bibtex: ke2017srn.bib
 ---
 
 # Publications
