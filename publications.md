@@ -30,6 +30,7 @@ pubs:
     year: "2017"
     address: "Hawaii, USA"
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition"
+    url: https://arxiv.org/abs/1703.02243
     bibtex: ke2017srn.bib
     code: https://github.com/KevinKecc/SRN
 ---
