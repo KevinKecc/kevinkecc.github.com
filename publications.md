@@ -3,7 +3,6 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
- 
  - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
     title: "Texture Complexity based Redundant Regions Ranking for Object Proposal"
     keywords: "object proposal"
