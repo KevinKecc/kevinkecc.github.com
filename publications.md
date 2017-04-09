@@ -24,6 +24,17 @@ pubs:
     booktitle: "Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on"
     url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178199
     bibtex: ke2015pedestrian.bib
+    
+  - author: "W. Ke, J. Chen, J. Jiao, G. Zhao, and Q. Ye"
+    title: "SRN: Side-output Residual Network for Object Symmetry Detection in the Wild"
+    keywords: "symmetry detection"
+    month: "July "
+    year: "2017"
+    address: "Hawaii, USA"
+    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (Oral)"
+    url: https://arxiv.org/abs/1703.02243
+    bibtex: ke2017srn.bib
+    code: https://github.com/KevinKecc/SRN
 ---
 
 # Publications
