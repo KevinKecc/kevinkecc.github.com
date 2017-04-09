@@ -3,15 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "W. Ke, Y. Zhang, P. Wei, Q. Ye and J. Jiao"
-    title: "Pedestrian detection via PCA filters based convolutional channel features"
-    keywords: "Pedestrian detection"
-    month: "April "
-    year: "2015"
-    address: "Brisbane, Australia"
-    booktitle: "Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on"
-    url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178199
-    bibtex: ke2015pedestrian.bib
+  
 
   - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
     title: "Texture Complexity based Redundant Regions Ranking for Object Proposal"
@@ -22,6 +14,16 @@ pubs:
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
     url: http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/papers/Ke_Texture_Complexity_Based_CVPR_2016_paper.pdf
     bibtex: ke2016proposal.bib
+    
+  - author: "W. Ke, Y. Zhang, P. Wei, Q. Ye and J. Jiao"
+    title: "Pedestrian detection via PCA filters based convolutional channel features"
+    keywords: "Pedestrian detection"
+    month: "April "
+    year: "2015"
+    address: "Brisbane, Australia"
+    booktitle: "Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on"
+    url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178199
+    bibtex: ke2015pedestrian.bib
 ---
 
 # Publications
