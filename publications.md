@@ -33,7 +33,7 @@ pubs:
     address: "Hawaii, USA"
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (Oral)"
     url: https://arxiv.org/abs/1703.02243
-    bibtex: ke2017srn.bib
+    bibtex: ke2015pedestrian.bib
     code: https://github.com/KevinKecc/SRN 
 ---
 
