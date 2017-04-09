@@ -54,8 +54,6 @@ pubs:
 
 ---
 
-# Publications
-
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
