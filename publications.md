@@ -12,8 +12,8 @@ pubs:
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (Oral)"
     url: https://arxiv.org/abs/1703.02243
     bibtex: ke2017srn.bib
-    code: https://github.com/KevinKecc/SRN
-	
+    code: https://github.com/KevinKecc/SRN	
+    
   - author: "Q. Ye, T. Zhang, W. Ke, Q. Qiu, J. Chen, G. Sapiro and B. Zhang"
     title: "Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model"
     keywords: "self-learning"
@@ -23,7 +23,7 @@ pubs:
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition"
     url: https://arxiv.org/abs/1611.07544
     bibtex: ye2017sl.bib
-
+    
   - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
     title: "Texture Complexity based Redundant Regions Ranking for Object Proposal"
     keywords: "object proposal"
@@ -32,8 +32,8 @@ pubs:
     address: "Las Vegas, USA"
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
     url: http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/papers/Ke_Texture_Complexity_Based_CVPR_2016_paper.pdf
-    bibtex: ke2016proposal.bib
-	
+    bibtex: ke2016proposal.bib	
+    
   - author: "W. Ke, Y. Zhang, P. Wei, Q. Ye and J. Jiao"
     title: "Pedestrian detection via PCA filters based convolutional channel features"
     keywords: "Pedestrian detection"
@@ -43,7 +43,7 @@ pubs:
     booktitle: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
     url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178199
     bibtex: ke2015pedestrian.bib
-
+    
   - author: "G. Ch, P. Wei, W. Ke, Q. Ye and J. Jiao"
     title: "Pedestrian Detection with Deep Convolutional Neural Network"
     keywords: "Pedestrian detection"
