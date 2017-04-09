@@ -11,7 +11,7 @@ pubs:
     address: "Hawaii, USA"
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (Oral)"
     url: https://arxiv.org/abs/1703.02243
-    bibtex: ke2015pedestrian.bib
+    bibtex: ke2017srn.bib
     code: https://github.com/KevinKecc/SRN   
 
   - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
