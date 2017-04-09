@@ -8,7 +8,8 @@ url: http://Kevinkecc.github.io
 owner:
   name:           Wei Ke
   avatar:         crop.jpg
-  bio:            cv_ke.pdf
+  #bio:            cv_ke.pdf
+  cv:				cv_ke.pdf
   email:          kewei11@mails.ucas.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
