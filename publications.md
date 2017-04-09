@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-- author: "W. Ke, J. Chen, J. Jiao, G. Zhao, and Q. Ye"
+ - author: "W. Ke, J. Chen, J. Jiao, G. Zhao, and Q. Ye"
     title: "SRN: Side-output Residual Network for Object Symmetry Detection in the Wild"
     keywords: "symmetry detection"
     month: "July "
