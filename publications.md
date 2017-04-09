@@ -14,6 +14,16 @@ pubs:
     bibtex: ke2017srn.bib
     code: https://github.com/KevinKecc/SRN   
 
+  - author: "Q. Ye, T. Zhang, W. Ke, Q. Qiu, J. Chen, G. Sapiro and B. Zhang"
+    title: "Self-learning Scene-specific Pedestrian Detectors using a Progressive Latent Model"
+    keywords: "self-learning"
+    month: "July "
+    year: "2017"
+    address: "Hawaii, USA"
+    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition"
+    url: https://arxiv.org/abs/1611.07544
+    bibtex: ye2017sl.bib
+    
   - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
     title: "Texture Complexity based Redundant Regions Ranking for Object Proposal"
     keywords: "object proposal"
