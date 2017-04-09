@@ -3,6 +3,27 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
+- author: "W. Ke, J. Chen, J. Jiao, G. Zhao, and Q. Ye"
+    title: "SRN: Side-output Residual Network for Object Symmetry Detection in the Wild"
+    keywords: "symmetry detection"
+    month: "July "
+    year: "2017"
+    address: "Hawaii, USA"
+    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (Oral)"
+    url: https://arxiv.org/abs/1703.02243
+    bibtex: ke2017srn.bib
+    code: https://github.com/KevinKecc/SRN
+    
+ - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
+    title: "Texture Complexity based Redundant Regions Ranking for Object Proposal"
+    keywords: "object proposal"
+    month: "July "
+    year: "2016"
+    address: "Las Vegas, USA"
+    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
+    url: http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/papers/Ke_Texture_Complexity_Based_CVPR_2016_paper.pdf
+    bibtex: ke2016proposal.bib
+    
   - author: "W. Ke, Y. Zhang, P. Wei, Q. Ye and J. Jiao"
     title: "Pedestrian detection via PCA filters based convolutional channel features"
     keywords: "Pedestrian detection"
@@ -13,15 +34,7 @@ pubs:
     url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178199
     bibtex: ke2015pedestrian.bib
 
-  - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
-    title: "Texture Complexity based Redundant Regions Ranking for Object Proposal"
-    keywords: "object proposal"
-    month: "July "
-    year: "2016"
-    address: "Las Vegas, USA"
-    booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
-    url: http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/papers/Ke_Texture_Complexity_Based_CVPR_2016_paper.pdf
-    bibtex: ke2016proposal.bib
+ 
 ---
 
 # Publications
