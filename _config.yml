@@ -27,6 +27,7 @@ google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+google_analytics: UA-100004384-1
 baidu-analysis: 0dfa3008b7e1f3c7fde1bde51437f516
 
 # Links to include in top navigation
