@@ -2,6 +2,7 @@
 <!-- <h4>{{ site.owner.name }}</h4> -->
 <p>{{ site.owner.bio }}</p>
 {% if site.owner.cv %}<p style="text-indent:0;margin-top:1.5em;"><a href="{{ site.url }}/{{ site.owner.cv }}" target="_blank"><i class="bio-cv"></i> CV</a></p>{% endif %}
+{% if site.owner.google_scholar %}<p style="text-indent:0;"><a href="https://scholar.google.com/citations?user={{ site.owner.google_scholar }}AAAAJ&hl=zh-CN" target="_blank"><i class="google_scholar"></i> GoogleScholar</a></p>{% endif %}
 {% if site.owner.email %}<p style="text-indent:0;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 {% if site.owner.facebook %}<p style="text-indent:0;"><a href="http://facebook.com/{{ site.owner.facebook }}" target="_blank"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
