@@ -10,7 +10,7 @@ pubs:
     year: "2017"
     address: "Hawaii, USA"
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition (Oral)"
-    url: https://arxiv.org/abs/1703.02243
+    url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_SRN_Side-output_Residual_CVPR_2017_paper.pdf
     bibtex: ke2017srn.bib
     code: https://github.com/KevinKecc/SRN   
 
@@ -21,7 +21,7 @@ pubs:
     year: "2017"
     address: "Hawaii, USA"
     booktitle: "IEEE International Conference on Computer Vision and Pattern Recognition"
-    url: https://arxiv.org/abs/1611.07544
+    url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Ye_Self-Learning_Scene-Specific_Pedestrian_CVPR_2017_paper.pdf
     bibtex: ye2017sl.bib
     
   - author: "W. Ke, T. Zhang, J. Chen, F. Wan, Q. Ye and Z. Han"
