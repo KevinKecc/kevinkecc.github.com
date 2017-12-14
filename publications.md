@@ -44,7 +44,7 @@ pubs:
     url: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178199
     bibtex: ke2015pedestrian.bib
     
-  - author: "G. Ch, P. Wei, W. Ke, Q. Ye and J. Jiao"
+  - author: "X. Chen, P. Wei, W. Ke, Q. Ye and J. Jiao"
     title: "Pedestrian Detection with Deep Convolutional Neural Network"
     keywords: "Pedestrian detection"
     year: "2014"
